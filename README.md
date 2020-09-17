@@ -9,18 +9,19 @@
 
 ## Nom
 
-Skywalker
+Arvanitis
 
 ## Prénom
 
-Luke
+Stefan
 
 ## Courte présentation
-
-Bonjour,
 
 Bonjour,
 
 J'ai suivi la majorité de mes cours à EPFC et, mais deux derniers cours (PRO2, PRBD) à l'IESPF. Je n'ai plus que PRID à terminer pour cette année. Je suis également à la recherche d'un stage. 
 
 J'attends avec impatience le projet qui nous sera demandé cette année. 
+
+
+Bonne journée
